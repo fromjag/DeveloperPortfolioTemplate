@@ -4,8 +4,6 @@ A minimalist, responsive developer portfolio template with dark/light mode. Easy
 
 [Live Demo](https://fromjag.github.io/)
 
-![Light Mode](/api/placeholder/400/200) ![Dark Mode](/api/placeholder/400/200)
-
 Created by [Joaquin Ariño](https://fromjag.github.io/) - Free to use under MIT License.
 
 ## Table of Contents
